@@ -1,0 +1,26 @@
+### Backend master
+
+- Cài vscode
+  - download và install vs.code
+  - Cài đặt các extenstion vs.code:
+    - 1. * `AutoFileName`
+    - 2. * `Color Highlight`
+    - 3. `VS color picker`
+    - 4. `jQuery Code Snippets`
+    - 5. `Bracket Highlighter`
+    - 6. * `Highlight Matching Tag`
+    - 7. `IntelliSense for CSS class names in HTML`
+    - 8. * `Bootstrap 4, Font awesome 4, Font Awesome 5 Free & Pro snippets for Visual studio code`
+    - 9. * `Prettier - Code formatter`
+    - 10. `phpfmt - PHP formatter`
+    - 11. * `Open PHP/HTML/JS In Browser`
+    - 12. `PHP Debug`
+    - 13. * `PHP Intelephense`
+    - 14. `Format HTML in PHP` => không cài vì n làm đảo lộn code
+  - Các phím tắt vs.code:
+    - `ctrl + 2`
+        - Chia nhiều màn hình trong vs.code:
+    - hoặc: `view -> edit layout -> tow column`
+  - custom snippet các mã tự định nghĩa để code nhanh
+    - Thêm php tag vào vs.code: `php + tab` -> `<?php ?>`
+        - file -> preferences -> configer user snippet -> html.json
